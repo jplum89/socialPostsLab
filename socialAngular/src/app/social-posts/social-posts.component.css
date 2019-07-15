@@ -1,0 +1,15 @@
+
+.tButt {
+    width: 70%;
+    margin-left: 15%;
+    height: 40px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.myThoughts {
+    width: 80%;
+    margin-left: 15%;
+    padding-left: 25%;
+}
